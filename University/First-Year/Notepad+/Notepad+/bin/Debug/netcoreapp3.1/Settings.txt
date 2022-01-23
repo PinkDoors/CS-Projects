@@ -1,0 +1,6 @@
+True
+2
+Light
+True
+5
+False
