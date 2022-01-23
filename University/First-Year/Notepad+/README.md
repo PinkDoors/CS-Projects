@@ -1,2 +1,1 @@
-## This program draws different types of fractals  
-
+## A rather antediluvian version of notepad++
