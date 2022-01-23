@@ -1,0 +1,27 @@
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.exe
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.deps.json
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.runtimeconfig.json
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.runtimeconfig.dev.json
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.dll
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.pdb
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.csprojAssemblyReference.cache
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.AssemblyInfoInputs.cache
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.AssemblyInfo.cs
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.csproj.CoreCompileInputs.cache
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.dll
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.pdb
+C:\Users\Даниил2\source\repos\PeerGrade\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.genruntimeconfig.cache
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.exe
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.deps.json
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.runtimeconfig.json
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.runtimeconfig.dev.json
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.dll
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\bin\Debug\netcoreapp3.1\PeerGrade.pdb
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.csproj.AssemblyReference.cache
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.AssemblyInfoInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.AssemblyInfo.cs
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.dll
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.pdb
+C:\Users\danii\OneDrive\Рабочий стол\FileManager\PeerGrade\obj\Debug\netcoreapp3.1\PeerGrade.genruntimeconfig.cache
