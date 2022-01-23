@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZiiGAcxX3/FNqIkmixMRACsiGsLXs4vKOx8hn1JETHTU2MZUFJLNps40HYOKe5sMmJgVDB+6BkGoM2t89bi5Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\source\\repos\\PeerGrade9\\PeerGrade9\\PeerGrade9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
