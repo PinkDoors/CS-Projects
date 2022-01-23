@@ -1,0 +1,16 @@
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csprojAssemblyReference.cache
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.Fractal.resources
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.Properties.Resources.resources
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.GenerateResource.cache
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfoInputs.cache
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfo.cs
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\Даниил2\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.exe
+C:\Users\Даниил2\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.deps.json
+C:\Users\Даниил2\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.json
+C:\Users\Даниил2\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.dev.json
+C:\Users\Даниил2\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.dll
+C:\Users\Даниил2\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.pdb
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.dll
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.pdb
+C:\Users\Даниил2\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.genruntimeconfig.cache
